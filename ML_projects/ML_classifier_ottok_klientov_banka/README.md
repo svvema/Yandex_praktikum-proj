@@ -5,7 +5,7 @@
 
 В наличии были следующие исторические данные от банка:
 
-# Признаки
+### Признаки
 - RowNumber — индекс строки в данных
 - CustomerId — уникальный идентификатор клиента
 - Surname — фамилия
@@ -20,12 +20,15 @@
 - IsActiveMember — активность клиента
 - EstimatedSalary — предполагаемая зарплата
 
-# Целевой признак
+### Целевой признак
 - Exited — факт ухода клиента    
 
 ## Задача
 
-Предсказать отток клиентов из банка по историческим данным.
+Предсказать по признакам клиентов банка собирающихся прекратить обслуживание в банке.
 
 ## Используемые библиотеки
 *pandas, plotly, matplotlib, numpy, sklearn*
+
+## Ссылка
+[Отток клиентов из банка](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_ottok_klientov_banka/ML_classifier_ottok_klientov_banka.ipynb)
