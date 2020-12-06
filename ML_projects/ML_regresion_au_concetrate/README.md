@@ -3,7 +3,7 @@
 
 ## Данные
 
-В наличии были следующие исторические данные о происходящем технологическом процессе добычи золота:
+В наличии следующие исторические данные о происходящем технологическом процессе добычи золота:
 - Rougher feed — исходное сырье
 - Rougher additions (или reagent additions) — флотационные реагенты: Xanthate, Sulphate, Depressant
 - Xanthate — ксантогенат (промотер, или активатор флотации);
@@ -17,7 +17,7 @@
 - Final Au — финальный концентрат золота
 
 
-## Параметры этапов
+## Параметры этапов технологического процесса
 - air amount — объём воздуха
 - fluid levels — уровень жидкости
 - feed size — размер гранул сырья
@@ -29,3 +29,7 @@
 
 ## Используемые библиотеки
 *pandas, plotly, matplotlib, numpy, sklearn*
+
+## Ссылка
+[Добыча золота](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_au_concetrate/ML_regresion_au_concetrate.ipynb)
+

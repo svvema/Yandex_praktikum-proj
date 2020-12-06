@@ -9,7 +9,7 @@
 | № | Название проекта | Описание | Использованные инструменты |
 | :-- | :---------------------- | :---------------------- | :---------------------- |
 |1.| [Отток клиентов из банка](ML_projects/ML_classifier_ottok_klientov_banka) | Предсказание клиентов банка собирающихся прекратить обслуживание| *pandas, plotly, matplotlib, numpy, sklearn* | 
-|2.| [Добыча золота](DA_projects/ML_regresion_au_concetrate) | Определение выхода концетрации золота от параметров технологического процесса| *pandas, plotly, matplotlib, numpy, sklearn* | 
+|2.| [Добыча золота](ML_projects/ML_regresion_au_concetrate) | Определение выхода концетрации золота от параметров технологического процесса| *pandas, plotly, matplotlib, numpy, sklearn* | 
 |3.| [Рекомендация тарифов](ML_projects/ML_classifier_recomend_tarif_telecom) | Рекомендация тарифа пользователям сотовой связи| *pandas, plotly, numpy, sklearn* | 
 |4.| [Выбор региона нефтедобычи](ML_projects/ML_regresion_oil_region) | Рекомендация региона безубыточной нефтедобычи| *pandas, matplotlib, numpy, sklearn* |
 |5.| [Цена машины с пробегом](ML_projects/ML_regression_servis_bu_mashin) | Определение цены автомобиля с пробегом по его параметрам| *pandas, matplotlib, numpy, sklearn, lightgbm, time* | 
