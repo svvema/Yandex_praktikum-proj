@@ -1,5 +1,15 @@
 # Отток клиентов из банка
 
+## Ссылка
+[Отток клиентов из банка](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_ottok_klientov_banka/ML_classifier_ottok_klientov_banka.ipynb)
+
+## Задача
+
+Предсказать по признакам клиентов банка собирающихся прекратить обслуживание в банке.
+
+## Используемые библиотеки
+*pandas, plotly, matplotlib, numpy, sklearn*
+
 
 ## Данные
 
@@ -22,13 +32,3 @@
 
 ### Целевой признак
 - Exited — факт ухода клиента    
-
-## Задача
-
-Предсказать по признакам клиентов банка собирающихся прекратить обслуживание в банке.
-
-## Используемые библиотеки
-*pandas, plotly, matplotlib, numpy, sklearn*
-
-## Ссылка
-[Отток клиентов из банка](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_ottok_klientov_banka/ML_classifier_ottok_klientov_banka.ipynb)

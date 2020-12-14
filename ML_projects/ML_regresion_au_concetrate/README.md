@@ -1,5 +1,14 @@
 # Добыча золота
 
+## Ссылка
+[Добыча золота](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_au_concetrate/ML_regresion_au_concetrate.ipynb)
+
+## Задача
+
+Предсказать концетрацию золота в зависимости от параметров технологического процесса.
+
+## Используемые библиотеки
+*pandas, plotly, matplotlib, numpy, sklearn*
 
 ## Данные
 
@@ -23,13 +32,4 @@
 - feed size — размер гранул сырья
 - feed rate — скорость подачи 
 
-## Задача
-
-Предсказать концетрацию золота в зависимости от параметров технологического процесса.
-
-## Используемые библиотеки
-*pandas, plotly, matplotlib, numpy, sklearn*
-
-## Ссылка
-[Добыча золота](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_au_concetrate/ML_regresion_au_concetrate.ipynb)
 

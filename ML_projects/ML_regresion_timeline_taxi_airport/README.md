@@ -1,10 +1,7 @@
 # Такси в аэропорт
 
-
-## Данные
-
-Количество заказов находится в столбце 'num_orders' (от англ. number of orders, «число заказов»).
-
+## Ссылка
+[Такси в аэропорт](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_timeline_taxi_airport/ML_regresion_timeline_taxi_airport.ipynb)
 
 ## Задача
 
@@ -12,3 +9,9 @@
 
 ## Используемые библиотеки
 *pandas, matplotlib, numpy, sklearn, lightgbm, statsmodels*
+
+## Данные
+
+Количество заказов находится в столбце 'num_orders' (от англ. number of orders, «число заказов»).
+
+

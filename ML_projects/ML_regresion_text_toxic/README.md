@@ -1,10 +1,7 @@
 # Токсичные комметарии
 
-
-## Данные
-
-Столбец text в нём содержит текст комментария, а toxic — целевой признак.
-
+## Ссылка
+[Токсичные комметарии](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_text_toxic/ML_regresion_text_toxic.ipynb)
 
 ## Задача
 
@@ -12,3 +9,8 @@
 
 ## Используемые библиотеки
 *pandas, matplotlib, numpy, sklearn, lightgbm, nltk, re, tqdm*
+## Данные
+
+Столбец text в нём содержит текст комментария, а toxic — целевой признак.
+
+
