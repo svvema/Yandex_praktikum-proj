@@ -1,7 +1,7 @@
 # Отток клиентов из банка
 
 ## Ссылка
-nbviewer.jupyter.org:[Отток клиентов из банка](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_ottok_klientov_banka/ML_classifier_ottok_klientov_banka.ipynb)
+nbviewer.jupyter.org: [Отток клиентов из банка](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_ottok_klientov_banka/ML_classifier_ottok_klientov_banka.ipynb)
 
 ## Задача
 

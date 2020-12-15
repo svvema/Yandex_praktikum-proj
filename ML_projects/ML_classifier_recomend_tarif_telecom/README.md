@@ -1,7 +1,7 @@
 # Рекомендация тарифов
 
 ## Ссылка
-nbviewer.jupyter.org:[Рекомендация тарифов](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_recomend_tarif_telecom/ML_classifier_recomend_tarif_telecom.ipynb)
+nbviewer.jupyter.org: [Рекомендация тарифов](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_recomend_tarif_telecom/ML_classifier_recomend_tarif_telecom.ipynb)
 
 ## Задача
 

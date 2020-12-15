@@ -1,7 +1,7 @@
 # Цена машины с пробегом
 
 ## Ссылка
-nbviewer.jupyter.org:[Цена машины с пробегом](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regression_servis_bu_mashin/ML_regression_servis_bu_mashin.ipynb)
+nbviewer.jupyter.org: [Цена машины с пробегом](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regression_servis_bu_mashin/ML_regression_servis_bu_mashin.ipynb)
 
 ## Задача
 

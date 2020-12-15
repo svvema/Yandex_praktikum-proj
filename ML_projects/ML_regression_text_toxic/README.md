@@ -1,7 +1,7 @@
 # Токсичные комметарии
 
 ## Ссылка
-nbviewer.jupyter.org:[Токсичные комметарии](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_text_toxic/ML_regresion_text_toxic.ipynb)
+nbviewer.jupyter.org: [Токсичные комметарии](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_text_toxic/ML_regresion_text_toxic.ipynb)
 
 ## Задача
 

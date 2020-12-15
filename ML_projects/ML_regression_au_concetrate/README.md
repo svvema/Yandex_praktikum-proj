@@ -1,7 +1,7 @@
 # Добыча золота
 
 ## Ссылка
-nbviewer.jupyter.org:[Добыча золота](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_au_concetrate/ML_regresion_au_concetrate.ipynb)
+nbviewer.jupyter.org: [Добыча золота](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_au_concetrate/ML_regresion_au_concetrate.ipynb)
 
 ## Задача
 
