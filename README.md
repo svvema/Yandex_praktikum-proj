@@ -8,13 +8,13 @@
 ## ML-projects
 | № | Название проекта | Описание | Использованные инструменты |
 | :-- | :---------------------- | :---------------------- | :---------------------- |
-|1.| [Отток клиентов из банка](ML_projects/ML_classifier_ottok_klientov_banka) | Предсказание клиентов банка собирающихся прекратить обслуживание| *pandas, plotly, matplotlib, numpy, sklearn* | 
-|2.| [Добыча золота](ML_projects/ML_regresion_au_concetrate) | Определение выхода концетрации золота от параметров технологического процесса| *pandas, plotly, matplotlib, numpy, sklearn* | 
+|1.| [Отток клиентов из банка](ML_projects/ML_classifier_ottok_klientov_banka) | Предсказание по поведению клиента собирается ли он закрыть счет в банке| *pandas, plotly, matplotlib, numpy, sklearn* | 
+|2.| [Добыча золота](ML_projects/ML_regression_au_concetrate) | Определение концетрации добычи золота от параметров технологического процесса| *pandas, plotly, matplotlib, numpy, sklearn* | 
 |3.| [Рекомендация тарифов](ML_projects/ML_classifier_recomend_tarif_telecom) | Рекомендация тарифа пользователям сотовой связи| *pandas, plotly, numpy, sklearn* | 
-|4.| [Выбор региона нефтедобычи](ML_projects/ML_regresion_oil_region) | Рекомендация региона безубыточной нефтедобычи| *pandas, matplotlib, numpy, sklearn* |
+|4.| [Выбор региона нефтедобычи](ML_projects/ML_regression_oil_region) | Рекомендация региона безубыточной нефтедобычи| *pandas, matplotlib, numpy, sklearn* |
 |5.| [Цена машины с пробегом](ML_projects/ML_regression_servis_bu_mashin) | Определение цены автомобиля с пробегом по его параметрам| *pandas, matplotlib, numpy, sklearn, lightgbm, time* | 
-|6.| [Такси в аэропорт](ML_projects/ML_regresion_timeline_taxi) | Предсказание количества заказов такси в аэропорт на час вперед| *pandas, matplotlib, numpy, sklearn, lightgbm, statsmodels* | 
-|7.| [Токсичные комметарии](ML_projects/ML_regresion_text_toxic) | Классификация комментариев в интернет магазине по токсичности| *pandas, matplotlib, numpy, sklearn, lightgbm, nltk, re, tqdm* | 
+|6.| [Такси в аэропорт](ML_projects/ML_regression_timeline_taxi_airport) | Предсказание количества заказов такси в аэропорт на час вперед| *pandas, matplotlib, numpy, sklearn, lightgbm, statsmodels* | 
+|7.| [Токсичные комментарии](ML_projects/ML_regression_text_toxic) | Классификация комментариев в интернет магазине по токсичности| *pandas, matplotlib, numpy, sklearn, lightgbm, nltk, re, tqdm* | 
 
 _____________________
 ## DA-projects

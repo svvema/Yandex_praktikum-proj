@@ -1,11 +1,11 @@
 # Рекомендация тарифов
 
 ## Ссылка
-[Рекомендация тарифов](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_recomend_tarif_telecom/ML_classifier_recomend_tarif_telecom.ipynb)
+nbviewer.jupyter.org:[Рекомендация тарифов](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_classifier_recomend_tarif_telecom/ML_classifier_recomend_tarif_telecom.ipynb)
 
 ## Задача
 
-Предложить пользователю на основе его трат трафика соответсвующий тариф.
+Предложить пользователю, на основе данных о его тратах трафика, соответсвующий тариф.
 
 ## Используемые библиотеки
 *pandas, plotly, numpy, sklearn*

@@ -1,11 +1,11 @@
 # Добыча золота
 
 ## Ссылка
-[Добыча золота](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_au_concetrate/ML_regresion_au_concetrate.ipynb)
+nbviewer.jupyter.org:[Добыча золота](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_au_concetrate/ML_regresion_au_concetrate.ipynb)
 
 ## Задача
 
-Предсказать концетрацию золота в зависимости от параметров технологического процесса.
+Предсказать концетрацию добываемого золота в зависимости от параметров технологического процесса.
 
 ## Используемые библиотеки
 *pandas, plotly, matplotlib, numpy, sklearn*
