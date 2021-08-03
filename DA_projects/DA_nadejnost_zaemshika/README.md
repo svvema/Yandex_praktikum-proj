@@ -1,5 +1,7 @@
 # Исследование надёжности заёмщиков
 
+## Ссылка
+nbviewer.jupyter.org: [Исследование надёжности заёмщиков](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/DA_projects/DA_nadejnost_zaemshika/DA_nadejnost_zaemshika.ipynb)
 
 ## Данные
 
@@ -19,7 +21,7 @@
 
 ## Задача
 
-Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. 
+Разобраться, влияет ли семейное положение и количество детей клиента на погашение кредита в срок. 
 
 ## Используемые библиотеки
 *pandas, pymystem3, numpy*

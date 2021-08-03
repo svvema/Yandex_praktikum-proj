@@ -1,5 +1,7 @@
 # Исследование объявлений о продаже квартир
 
+## Ссылка
+nbviewer.jupyter.org: [Исследование объявлений о продаже квартир](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/DA_projects/DA_prodaji_kvartir/DA_prodaji_kvartir.ipynb)
 
 ## Данные
 
@@ -29,7 +31,7 @@
 
 ## Задача
 
-Нужно научиться определять рыночную стоимость объектов недвижимости. 
+Научиться определять рыночную стоимость объектов недвижимости. 
 
 ## Используемые библиотеки
 *pandas, matplotlib*

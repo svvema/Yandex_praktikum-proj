@@ -1,5 +1,7 @@
 # Определение перспективных игр
 
+## Ссылка
+nbviewer.jupyter.org: [Определение перспективных игр](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/DA_projects/DA_Perspectiv_igri/DA_Perspectiv_igri.ipynb)
 
 ## Данные
 
@@ -17,7 +19,7 @@
 
 ## Задача
 
-Исследование закономерностей определяющих успешность игр и игровых платформ. 
+Исследование закономерностей, определяющих успешность игр и игровых платформ. 
 
 ## Используемые библиотеки
 *pandas, numpy, plotly, scipy*

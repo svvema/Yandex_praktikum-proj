@@ -1,7 +1,7 @@
 # Выбор региона нефтедобычи
 
 ## Ссылка
-nbviewer.jupyter.org: [Выбор региона нефтедобычи](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_oil_region/ML_regresion_oil_region.ipynb)
+nbviewer.jupyter.org: [Выбор региона нефтедобычи](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regression_oil_region/ML_regression_oil_region.ipynb)
 
 ## Задача
 

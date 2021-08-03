@@ -1,7 +1,7 @@
 # Такси в аэропорт
 
 ## Ссылка
-nbviewer.jupyter.org: [Такси в аэропорт](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regresion_timeline_taxi_airport/ML_regresion_timeline_taxi_airport.ipynb)
+nbviewer.jupyter.org: [Такси в аэропорт](https://nbviewer.jupyter.org/github/svvema/Yandex_praktikum-proj/blob/main/ML_projects/ML_regression_timeline_taxi_airport/ML_regression_timeline_taxi_airport.ipynb)
 
 ## Задача
 
